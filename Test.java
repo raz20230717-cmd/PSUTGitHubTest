@@ -8,5 +8,6 @@ public class Test
         System.out.println (p1.getName ());
         
         System.out.println ("Firas");
+        System.out.println ("Yaza");
     }
 }
